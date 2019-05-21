@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "name": "Pacific Rim",
+        "tel": "0978654321",
+        "permission": 1
+    },
+    {
+        "id":2,
+        "name": "Mr Bean",
+        "tel": "0123456890",
+        "permission": 2
+    },
+    {
+        "id":3,
+        "name": "Iron Man",
+        "tel": "0969696969",
+        "permission": 3
+    },
+    {
+        "id":4,
+        "name": "aaa",
+        "tel": "0969696969",
+        "permission": 3
+    },{
+        "id":5,
+        "name": "bbb",
+        "tel": "0969696969",
+        "permission": 4
+    }
+]
